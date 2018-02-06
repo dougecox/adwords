@@ -1,5 +1,7 @@
+var args = arguments;
 Logger.log('hello Dougls');
 
 var test = test || 'nope';
 
 Logger.log('test: ' + test);
+Logger.log('arguments: ' + );
